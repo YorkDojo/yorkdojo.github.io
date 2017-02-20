@@ -1,14 +1,17 @@
-# Thinkspace v2
+# CoderDojo York - Website & Blog
 
-**Thinkspace** - a minimalist and white clean Jekyll theme designed for engineers to write their ranting and findings. It's best for personal blog or project blog use. Made with [Sass](https://github.com/sass/sass) which automates the compression of the compiled CSS code, and cool Jekyll layout by [Anatol Broder](http://jch.penibelst.de/) for compressing the HTML output code on-the-fly. Use typeface from [Inconsolata](https://fonts.google.com/specimen/Inconsolata) by Google Fonts and [Font Awesome](http://fontawesome.io/). [Disqus](https://disqus.com/) comment supported.
+This is the official website for **CoderDojo York** - a free and independent coding club for all young people aged 7-17 in York, UK.
 
-[**Live Demo**](http://heiswayi.github.io/thinkspace/)
+## Development on this website
 
-### Screenshot
+This website is generated using a [Ruby 'gem' called Jekyll](https://jekyllrb.com). To install it, you need Ruby on your machine. It takes Markdown text files ending in '.md' and generates .html, .css and .js files and puts the in to the 'site' folder.
 
-![Screenshot](http://i.imgur.com/TgaRfrU.png)
+To install Jekyll, use the following commands on a command terminal program
 
-### License
+    gem install jekyll bundler
 
-[MIT](LICENSE.md)
+## Testing the website on your computer
 
+To test the website locally, use Jekyll to read the files
+
+    jekyll server
