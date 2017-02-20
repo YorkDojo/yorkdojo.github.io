@@ -24,3 +24,7 @@ Clifton Green Primary School, Water Lane, York.
 ## Map
 
 ![Clifton Green Primary School, York](/assets/images/map.png)
+
+## Tickets
+
+[You can reserve your place here](https://zen.coderdojo.com/dojo/gb/york/york), but if you forget just come along anyway.
