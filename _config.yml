@@ -22,6 +22,12 @@ highlighter : rouge
 source: ./
 destination: ./_site
 
+permalink: /:year/:title/
+
+collections:
+  worksheets:
+    output: true
+
 # Sass configuration
 sass:
   sass_dir: assets/scss

@@ -7,6 +7,7 @@ title: Home
 
 <section class="post-list">
   <div class="container">
+    <h1>Session blog</h1>
     {% for post in site.posts %}
       {% unless post.next %}
         <h2 class="category-title">{{ post.date | date: '%Y' }}</h2>
@@ -23,5 +24,18 @@ title: Home
       </article>
     {% endfor %}
   </div>
+</section>
 
+<section class="post-list">
+  <div class="container">
+    <h1>List of worksheets</h1>
+    {% for worksheet in site.worksheets %}
+
+    <article class="post-item">
+      <span class="post-meta date-label">{{ worksheet.type }}</span>
+      <span class="post-meta date-label">{{ worksheet.date | date: "%b %d" }}</span>
+      <div class="article-title"><a class="post-link" href="{{ worksheet.url | prepend: site.baseurl }}">{{ worksheet.title }}</a></div>
+    </article>
+    {% endfor %}
+  </div>
 </section>
