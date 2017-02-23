@@ -4,7 +4,7 @@ type: BBC microbit
 title: "Magic 8-Ball"
 ---
 
-# Make a Magic 8-Ball!
+# Make a BBC Microbit Magic 8-Ball!
 
 ## Step One: Get MicroPython
 
