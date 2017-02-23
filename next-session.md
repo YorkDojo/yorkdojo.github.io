@@ -1,9 +1,13 @@
 ---
 layout: page
-title: "Our next session is on "
+title: "Our next session: "
 permalink: /next-session/
-date_string: 26 February 2017, 10am - noon
+date_string: 26 Feb, 10-12
 ---
+
+## When and Where
+
+26th February 2017, 10am to noon, at Clifton Green Primary School, Water Lane, York.
 
 ## What do I need to bring?
 
@@ -17,14 +21,10 @@ date_string: 26 February 2017, 10am - noon
 - Making a Microbit theremin, waving about a Microbit to make UFO music!
 - More web games and Scratch
 
-## Location
-
-Clifton Green Primary School, Water Lane, York.
-
 ## Map
 
 ![Clifton Green Primary School, York](/assets/images/map.png)
 
 ## Tickets
 
-[You can reserve your place here](https://zen.coderdojo.com/dojo/gb/york/york), but if you forget just come along anyway.
+[You can reserve your free place here](https://zen.coderdojo.com/dojo/gb/york/york), but if you forget just come along anyway.
