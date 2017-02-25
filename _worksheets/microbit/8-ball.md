@@ -1,10 +1,8 @@
 ---
 layout: worksheet
-type: BBC microbit
+type: microbit
 title: "Magic 8-Ball"
 ---
-
-# Make a BBC Microbit Magic 8-Ball!
 
 ## Step One: Get MicroPython
 
