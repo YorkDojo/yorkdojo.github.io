@@ -1,10 +1,8 @@
 ---
 layout: worksheet
-type: BBC microbit
+type: microbit
 title: Theremin
 ---
-
-# Make a BBC Microbit Theremin
 
 A theremin is an old electronic musical instrument played in mid air with your hands. The original theremin detects movements of both the player's hands and turns it into a spooky UFO-like sound.
 
