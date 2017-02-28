@@ -32,8 +32,7 @@ title: Home
     {% for worksheet in site.worksheets %}
       {% unless worksheet.type == "page" %}
         <article class="post-item">
-          <span class="post-meta date-label">{{ worksheet.type }}</span>
-          <span class="post-meta date-label">{{ worksheet.date | date: "%b %d" }}</span>
+          <span class="post-meta date-label"><a href="{{ worksheet.type | prepend: "worksheets/" | prepend: site.baseurl  }}">{{ worksheet.type }}</a></span>
           <div class="article-title"><a class="post-link" href="{{ worksheet.url | prepend: site.baseurl }}">{{ worksheet.title }}</a></div>
         </article>
       {% endunless %}

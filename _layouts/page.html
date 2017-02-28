@@ -4,7 +4,11 @@ layout: default
 
 <article class="page container">
   <header class="page-header">
-    <h1 class="page-title">{{ page.title }}{{ page.date_string }}</h1>
+    <h1 class="page-title">
+      {{ page.title }}
+      {% if page.title == "Our next session:" %}
+        {{ site.next_session_long }}
+      {% endif %}</h1>
   </header>
   <div class="page-content">
     {{ content }}

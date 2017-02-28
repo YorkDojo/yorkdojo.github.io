@@ -171,6 +171,12 @@ hr {
   font-size: rem(14);
 }
 
+.post-meta a {
+  font-weight: normal;
+  color: $medium-gray-color;
+  letter-spacing: 1.2px;
+}
+
 .post-link,
 .post a,
 .page a {
