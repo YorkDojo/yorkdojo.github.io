@@ -22,8 +22,6 @@ highlighter : rouge
 source: ./
 destination: ./_site
 
-permalink: /:year/:title/
-
 collections:
   worksheets:
     output: true

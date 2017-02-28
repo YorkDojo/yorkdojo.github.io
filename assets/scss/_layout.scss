@@ -181,6 +181,12 @@ hr {
   @extend .clearfix;
 }
 
+.featured_image {
+  margin: 0 0 10px 30px;
+  width: 300px;
+  @extend .pull-right;
+}
+
 .pagination {
   li, a, span {
     display: inline-block;
@@ -288,5 +294,9 @@ hr {
       border-bottom: 2px solid transparent;
       color: $blue-color;
     }
+  }
+
+  .featured_image {
+    display: none;
   }
 }
