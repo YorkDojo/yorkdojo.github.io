@@ -22,7 +22,7 @@ permalink: /next-session/
 
 ## Map
 
-![Clifton Green Primary School, York](/assets/images/map.png)
+[![Clifton Green Primary School, York](/assets/images/map.png)](https://goo.gl/maps/cz8hFzay5jR2)
 
 ## Tickets
 
