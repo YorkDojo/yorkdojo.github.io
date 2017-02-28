@@ -1,7 +1,8 @@
 ---
 layout: worksheet
 type: microbit
-title: "Magic 8-Ball"
+title: Magic 8-Ball
+featured_image: 8-ball.gif
 ---
 
 ## Step One: Get MicroPython

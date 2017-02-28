@@ -2,6 +2,7 @@
 layout: worksheet
 type: microbit
 title: Fireflies
+featured_image: fireflies.gif
 ---
 
 > Intermediate level microbit javascript - 1hr to 2hrs
