@@ -86,7 +86,9 @@ Download and upload to all the microbits. Maybe add even more microbits! What do
 
 ### Full code
 
-![Full code]({{ 'full-code.png' | prepend: page.url }})
+[Link to a working version of Microbit fireflies](https://pxt.microbit.org/27694-20781-13172-63214)
+
+
 
 ## Challenge I: Make a better screen flash animation (beginners, 15 mins)
 
