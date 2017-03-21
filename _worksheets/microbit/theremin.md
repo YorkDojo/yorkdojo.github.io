@@ -5,6 +5,8 @@ title: Theremin
 featured_image: theremin.gif
 ---
 
+> Intermediate level microbit - 1hr
+
 A theremin is an old electronic musical instrument played in mid air with your hands. The original theremin detects movements of both the player's hands and turns it into a spooky UFO-like sound.
 
 For this version, we're just going to make it work with one hand and the BBC Microbit
@@ -41,7 +43,7 @@ Now, compile and upload your code to the BBC Microbit. Does it play a noise? BLE
 
 ## Step Four: Let's get the music moving
 
-We want to be able to change the sound depending on how we move the Microbit around in real life. To do this, we need to use the accelerometer in the Microbit. The accelerometer is a chip on board the Microbit, but it's also in things like aircraft, modern cars and  mobile phones - it measures movement up-down (Y), side-to-side (X) and backwards-forwards (Z).
+We want to be able to change the sound depending on how we move the Microbit around in real life. To do this, we need to use the accelerometer in the Microbit. The accelerometer is a chip on board the Microbit, but it's also in things like aircraft, rockets, modern cars and mobile phones - it measures movement up-down (Y), side-to-side (X) and backwards-forwards (Z).
 
 So to change the music tone when we move the Microbit up and down, we need to use the 'accelelation (mg) Y' input block in the Block Editor, like so:
 
