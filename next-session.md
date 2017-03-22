@@ -16,8 +16,8 @@ permalink: /next-session/
 
 ## What we'll be doing
 
-- Experimenting with microbits radios and accelometers, making a step counter
-- Making a Microbit theremin, waving about a Microbit to make UFO music!
+- Experimenting with microbits radios and accelometers, [making a microbit step counter](/worksheets/microbit/step-counter/)
+- [Making a microbit theremin](/worksheets/microbit/theremin/), waving about a Microbit to make UFO music!
 - More web games and Scratch
 
 ## Map
