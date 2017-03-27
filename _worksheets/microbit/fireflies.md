@@ -19,9 +19,11 @@ The microbit has a radio that can be used to both send and receive messages wire
 
 - At least three microbits
 
-## Step one: Flash the LEDs when you press a button
+## Step Zero: Open up the PXT editor
 
 Firstly, fire up [Microsoft PXT](https://pxt.microbit.org/?lang=en) and click on the 'Javascript' tab at the top.
+
+## Step One: Flash the LEDs when you press a button
 
 Change the code so it's like this
 
@@ -31,7 +33,7 @@ The code sets the brightness to full, turns on all the LEDs, and then fades them
 
 Download and upload to the microbit. Do the LEDs flash when you press the A button?
 
-## Step two: Send out a radio message
+## Step Two: Send out a radio message
 
 Back in the PXT editor, make sure that you can see 'Radio' underneath 'Led' in the blocks you can use. If you don't see it, click on the 'Add services' button at the bottom and click on 'radio'.
 
@@ -45,7 +47,7 @@ Download and upload to the microbit. Do the LEDs still flash when you press the 
 
 We can't really tell if the radio is sending the message yet, but let's see if it is!
 
-## Step three: Listen for the radio boop message
+## Step Three: Listen for the radio boop message
 
 To listen to the message we've sent, we need to use another Radio block...
 
@@ -55,7 +57,7 @@ Now, you need to save and upload the code to two different microbits.
 
 What happens when you press the button on one of the microbits?
 
-## Step four: Wait a bit...
+## Step Four: Wait a bit...
 
 In real life, fireflies don't always light up when others light up, and they don't do it straight away if they do.
 
@@ -69,7 +71,7 @@ You might not be able to find the 'Math.random' block, so you'll need to type it
 
 Download and upload to all the microbits. Can you see it waiting a little bit after you press the button sometimes?
 
-## Step five: Randomly radio boop again
+## Step Five: Randomly radio boop again
 
 One firefly can set off another one, we can do this by sending the radio boop again...
 
@@ -87,8 +89,6 @@ Download and upload to all the microbits. Maybe add even more microbits! What do
 ### Full code
 
 [Link to a working version of Microbit fireflies](https://pxt.microbit.org/27694-20781-13172-63214)
-
-
 
 ## Challenge I: Make a better screen flash animation (beginners, 15 mins)
 

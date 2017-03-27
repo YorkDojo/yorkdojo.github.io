@@ -17,11 +17,11 @@ For this version, we're just going to make it work with one hand and the BBC Mic
 - A pair of headphones, or a speaker (you can't use a Piezo buzzer)
 - Two crocodile clips
 
-## Step One: Open up the block editor
+## Step Zero: Open up the block editor
 
 [Open up the Microbit block editor](https://www.microbit.co.uk/app/#create:xczaux) and then plug into your microbit into your computer.
 
-## Step Two: Connect up the Microbit
+## Step One: Connect up the Microbit
 
 The BBC Microbit can play sounds in your scripts, but first you need to attach the headphones or speaker to the Microbit.
 
@@ -31,7 +31,7 @@ Now, connect the other end of the GND output crocodile clip to the base of the h
 
 ![Connecting the leads from the BBC microbit to the audio cable]({{ 'connect-leads.jpg' | prepend: page.url }})
 
-## Step Three: Play some noise
+## Step Two: Play some noise
 
 Now we've connected up the Microbit, lets play some sound through it!
 
@@ -41,7 +41,7 @@ Now we've connected up the Microbit, lets play some sound through it!
 
 Now, compile and upload your code to the BBC Microbit. Does it play a noise? BLEEEEEEEEEP!
 
-## Step Four: Let's get the music moving
+## Step Three: Let's get the music moving
 
 We want to be able to change the sound depending on how we move the Microbit around in real life. To do this, we need to use the accelerometer in the Microbit. The accelerometer is a chip on board the Microbit, but it's also in things like aircraft, rockets, modern cars and mobile phones - it measures movement up-down (Y), side-to-side (X) and backwards-forwards (Z).
 
@@ -51,7 +51,7 @@ So to change the music tone when we move the Microbit up and down, we need to us
 
 Compile and upload your code again. What happens now when you wiggle the Microbit around?
 
-## Step Five: Detect movement in all directions
+## Step Four: Detect movement in all directions
 
 To detect movement up down, side to side and backwards-forwards we need to use the 'accelelation (mg) Y', 'accelelation (mg) X' and 'accelelation (mg) Z' blocks.
 

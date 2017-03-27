@@ -5,11 +5,11 @@ title: Magic 8-Ball
 featured_image: 8-ball.gif
 ---
 
-## Step One: Get MicroPython
+## Step Zero: Get MicroPython
 
 On Google Chrome, find [the app 'MicroPython’ in the Web Store](https://chrome.google.com/webstore/detail/micropython/lhdjeebhcalhgnbigbngiaglmladclbo?hl=en-GB) - it’s free. This will allow you to write Python scripts and upload them to the Microbit. If you're reading this online, click the link to be put straight through to it.
 
-## Step Two: Write an '8' to the screen
+## Step One: Write an '8' to the screen
 
 In the Microbit app, write the following code:
 

@@ -14,11 +14,11 @@ A step counter is a little device worn usually on the arm or leg that counts the
 - A BBC microbit & battery holder
 - A big rubber band
 
-## Step One: Open up the block editor
+## Step Zero: Open up the block editor
 
 [Open up the Microbit block editor](https://www.microbit.co.uk/app/#create:xczaux) and then plug into your microbit into your computer.
 
-## Step Two: 'steps' variable
+## Step One: 'steps' variable
 
 To count the number of steps we take, we need to store the number on the microbit in it's memory. We can do this by using a variable. A variable is like a postbox that we can put numbers and text into, change it, and then get it back by using it's name later.
 
@@ -32,7 +32,7 @@ Now we've got the steps variable, we need to set it to zero when we turn the mic
 
 ![Set steps variable to zero]({{ 'set-steps.png' | prepend: page.url }})
 
-## Step Three: Count shakes
+## Step Two: Count shakes
 
 To detect a step made by your feet, microbits have an accelerometer on board. The accelerometer is a special chip on board the microbit that detects movement in real life, it's also in things like aircraft, rockets, modern cars and mobile phones.
 
@@ -42,7 +42,7 @@ Add more blocks to detect a shaking movement
 
 ![Add 1 to steps when shaken]({{ 'shake-steps.png' | prepend: page.url }})
 
-## Step Four: Display the number of steps
+## Step Three: Display the number of steps
 
 We still don't know how many steps we've made!
 
