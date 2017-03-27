@@ -5,7 +5,7 @@ title: Meteors!
 featured_image: meteors.gif
 ---
 
-> Intermediate level microbit - 1hr
+> Intermediate level microbit - 1hr. Original game & code by Emily & Claire!
 
 In Meteors! we create a game that you control using the A & B buttons moving your spaceship to avoid meteors coming towards you.
 
