@@ -77,7 +77,7 @@ Save and upload the code to the Arduino. The onboard LED should light up when yo
 
 ## Full code
 
-[You can get the Arduino code here](/assets/worksheets/arduino/plant-moisture.ino)
+[You can get the Arduino code here](https://github.com/YorkDojo/yorkdojo.github.io/blob/master/assets/worksheets/arduino/plant-moisture/plant-moisture.ino)
 
 ## Challenge I: Flashing LED
 
