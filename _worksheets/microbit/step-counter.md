@@ -14,9 +14,10 @@ A step counter is a little device worn usually on the arm or leg that counts the
 - A BBC microbit & battery holder
 - A big rubber band
 
-## Step Zero: Open up the block editor
+## Step Zero: Open up the PXT editor
 
-[Open up the Microbit block editor](https://www.microbit.co.uk/app/#create:xczaux) and then plug into your microbit into your computer.
+Firstly, fire up [Microsoft PXT](https://pxt.microbit.org/?lang=en) and click on the 'Javascript' tab at the top.
+
 
 ## Step One: 'steps' variable
 
