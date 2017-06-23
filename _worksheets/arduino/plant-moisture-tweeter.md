@@ -87,4 +87,4 @@ Change the code so that the LED flashes faster and faster as more and more moist
 
 The Raspberry Pi can only read digital signals. Change the wires from the A2D from `A0` to `D0`. This will be on or off depending on whether the moisture passes a certain threshold (adjustable on the A2D itself).
 
-Read this digital signal on a Raspberry Pi, and use it to send out a tweet if the moisture is too low. That way I'll never kill my plants again!
+[Follow this guide from Raspberry Pi to setup a Twitter account for the plant](https://www.raspberrypi.org/learning/getting-started-with-the-twitter-api/worksheet/). In your Python script, read the digital input from the moisture sensor and tweet every hour (or maybe every day!) saying if the plant needs more water. That way I'll never kill my plants again!
