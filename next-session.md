@@ -16,12 +16,10 @@ permalink: /next-session/
 
 ## What we'll be doing
 
-- Making a [tweeting Raspberry Pi moisture sensor for plants](/worksheets/arduino/plant-moisture-tweeter/)
+- Add a echo sensor to the Arduino robot to detect obstacles
 - Finding aeroplanes in the sky with a Raspberry Pi
-- Writing some code to control an Arduino robot
-- Experimenting with microbits and [making them into fireflies](/worksheets/microbit/step-counter/) and [making a microbit step counter](/worksheets/microbit/step-counter/)
-- [Making a microbit theremin](/worksheets/microbit/theremin/), waving about a Microbit to make UFO music
-- More web games and Scratch
+- Making music with code in SonicPi
+- Experimenting with Microbits and [making them into fireflies](/worksheets/microbit/step-counter/) and [making a microbit step counter](/worksheets/microbit/step-counter/)
 
 ## Map
 
