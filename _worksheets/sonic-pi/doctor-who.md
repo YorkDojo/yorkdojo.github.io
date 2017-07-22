@@ -1,7 +1,7 @@
 ---
 layout: worksheet
 type: sonic pi
-title: Doctor Who
+title: Jungle Doctor Who
 featured_image: party-daleks.gif
 ---
 
@@ -10,6 +10,8 @@ featured_image: party-daleks.gif
 Sonic Pi is software that allows you to make music using code! You can use what you've learnt about if statements and loops for example, and use it to make music on your computer live.
 
 By the end of this worksheet, we'll make the code to play a dance remix version of the Doctor Who theme tune! There is no right or wrong tune to make with this sheet, but we're aiming for something a bit like the Doctor Who theme tune at least!
+
+Listen here: <audio src="{{ 'jungle-doctor-who.mp3' | prepend: page.url }}" controls="controls"></audio>
 
 ## Step Zero: Download & install Sonic Pi
 
@@ -88,3 +90,7 @@ Hooray! It's now looping as it should, add this into our original song, making s
 ## Step Seven: Experiment!
 
 There are no mistakes in music really - just experiment to see what sounds good, and practice to get better at it. You can maybe add some new swooshy noises in the background or add more to the melody, as this is only part of the song.
+
+## Full code
+
+[You can see my full code here](https://github.com/YorkDojo/yorkdojo.github.io/blob/master/_worksheets/sonic-pi/doctor-who/jungle-doctor-who.rb)
