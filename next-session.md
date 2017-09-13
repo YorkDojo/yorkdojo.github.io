@@ -16,9 +16,11 @@ permalink: /next-session/
 
 ## What we'll be doing
 
-- Making an proper iPhone app
-- Helping our Arduino robot avoid obstacles
-- Experimenting with microbits and [making them into fireflies](/worksheets/microbit/step-counter/) and [making a microbit step counter](/worksheets/microbit/step-counter/)
+- Add a echo sensor to the Arduino robot to detect obstacles
+- Making a proper iPhone app
+- Finding aeroplanes in the sky with a Raspberry Pi
+- Making music with code in SonicPi
+- Experimenting with Microbits and [making them into fireflies](/worksheets/microbit/step-counter/) and [making a microbit step counter](/worksheets/microbit/step-counter/)
 
 ## Map
 

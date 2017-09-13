@@ -49,7 +49,7 @@ Connect the moisture sensor to the other two pins sticking out. It doesn't matte
 
 You can see the pins on the A2D chip better in this picture - the labels are hidden.
 
-![Connecting up an Arduino to a moisture meter for an analogue signal reading]({{ 'a2dpins.jpg' | prepend: page.url }})
+![Connecting up an Arduino to a moisture meter for an analogue signal reading]({{ 'a2dpins.JPG' | prepend: page.url }})
 
 ## Step Two: Monitor the Arduino serial output
 
