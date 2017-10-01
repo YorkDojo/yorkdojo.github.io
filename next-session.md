@@ -16,9 +16,8 @@ permalink: /next-session/
 
 ## What we'll be doing
 
-- Add a echo sensor to the Arduino robot to detect obstacles
+- Add a ultrasonic sensor to the Arduino robot to detect obstacles
 - Making a proper iPhone app
-- Finding aeroplanes in the sky with a Raspberry Pi
 - Making music with code in SonicPi
 - Experimenting with Microbits and [making them into fireflies](/worksheets/microbit/step-counter/) and [making a microbit step counter](/worksheets/microbit/step-counter/)
 
