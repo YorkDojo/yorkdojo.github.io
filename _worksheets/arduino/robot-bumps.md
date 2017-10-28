@@ -57,7 +57,7 @@ our robot travels in a straight line, or in a square (if you got that far). We'd
 We need code to...
 
 - Measure the distance in front of the robot
-- Go in a straight line if it's clear
+- In a loop, go in a straight line if it's clear
 - If it's not clear (there's an obstacle, or a wall), then the robot should stop
 
 You might need to change some of the digital PIN numbers on the original code to get the motors, encoders and ultrasonic sensor working at the same time
@@ -71,11 +71,11 @@ Horray, our robot now doesn't bump into walls or other stuff! Now let's take thi
 make the robot move around obstacles after it gets stuck. So we need code to...
 
 - Measure the distance in front of the robot
-- Go in a straight line if it's clear
+- In a loop, go in a straight line if it's clear
 - If it's not clear, look in a direction (left or right).
   - If the new direction is clear, continue in that direction
   - If the new direction is still blocked, use the other direction
 
 > Try again to code this yourself. Does the robot now avoid stuff in a clever way?
 
-> [Full code listing]()
+> [Full code listing](https://create.arduino.cc/editor/acallaghan/b57493ce-4ae7-4969-b96a-b4c1532b2bbe/preview)
