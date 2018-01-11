@@ -16,9 +16,8 @@ permalink: /next-session/
 
 ## What we'll be doing
 
-- Add a ultrasonic sensor to the Arduino robot to detect obstacles
-- Making a proper iPhone app
-- Making music with code in SonicPi
+- Making a website blog using Ruby on Rails, and pushing it online for all to see
+- Making a [remix of Doctor Who theme with code in SonicPi](/worksheets/sonic-pi/doctor-who)
 - Experimenting with Microbits and [making them into fireflies](/worksheets/microbit/step-counter/) and [making a microbit step counter](/worksheets/microbit/step-counter/)
 
 ## Map
