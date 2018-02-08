@@ -10,7 +10,7 @@ permalink: /next-session/
 
 ## What do I need to bring?
 
-- A laptop, we don't need to install anything on it
+- A laptop, we might need to install some things on it
 - Someone over 16 (a parent, guardian or older sibling is fine)
 - A Raspberry Pi & monitor if you have one
 
