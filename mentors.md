@@ -16,12 +16,12 @@ permalink: /mentors/
 [Website](http://www.andycallaghan.com/)
 </div>
 
-Andy is a Ruby developer at Pixfizz, writing software that makes print books and calendars.
+Andy is a Ruby developer at [Your Golf Travel](http://www.yourgolftravel.com), writing software for the UK's biggest golf holiday website.
 He started taking computers apart at aged 7 and hasn't really stopped since!
-In his spare time, he plays the drums in a band and is often seen about with his dog Freddy!
+In his spare time, he plays the drums in a band and is often seen about with his golden dog Freddy!
 
 </div>
-![Daniel's Bio Pic](/assets/images/andy-bio-pic.jpg)
+![Andy's Bio Pic](/assets/images/andy-bio-pic.jpg)
 
 <div class="mentor" markdown='1'>
 
@@ -33,13 +33,12 @@ In his spare time, he plays the drums in a band and is often seen about with his
 [Website](http://www.daniel-alderman.com/)
 </div>
 
-Daniel is a .Net developer for StarCompliance. As a self-confessed Pythonista, he
+Daniel is a .Net developer for [StarCompliance](https://www.starcompliance.com). As a self-confessed Pythonista, he
 has a passion for all things. He is also particularly fond of cloud technologies
 and web application development. Daniel is currently learning Go and Kubernetes.
 
 </div>
 ![Daniel's Bio Pic](/assets/images/dan-bio-pic.jpg)
-
 
 </div>
 
