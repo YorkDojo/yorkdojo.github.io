@@ -18,7 +18,7 @@ permalink: /next-session/
 
 - Making a website blog using Ruby on Rails, and pushing it online for all to see
 - Making a [remix of Doctor Who theme with code in SonicPi](/worksheets/sonic-pi/doctor-who)
-- Experimenting with Microbits and [making them into fireflies](/worksheets/microbit/step-counter/) and [making a microbit step counter](/worksheets/microbit/step-counter/)
+- Experimenting with Microbits and [making them into fireflies](/worksheets/microbit/fireflies/) and [making a microbit step counter](/worksheets/microbit/step-counter/)
 
 ## Map
 
