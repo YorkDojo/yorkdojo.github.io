@@ -30,7 +30,7 @@ Here's a list things we recommend at different levels.
 
 <hr>
 
-## Ages 8-11
+## Ages 8+
 
 - [Code Club - Websites Module I](https://projects.raspberrypi.org/en/codeclub/webdev-module-1)
 - [Code Club - Raspberry Pi Module I](https://codeclubprojects.org/en-GB/raspberry-pi/)
@@ -47,6 +47,8 @@ Here's a list things we recommend at different levels.
 - [Amazon - Arduino Uno starter kit](https://amzn.to/2Hsz8nQ)
 - [Pimoroni - Raspberry Pi 3 B+ starter kit(£90)](https://shop.pimoroni.com/products/raspberry-pi-3-b-plus-starter-kit)
 - [Pimoroni - Pirate Radio Kit (£40)](https://shop.pimoroni.com/products/pirate-radio-pi-zero-w-project-kit)
+- [CoolComponents - Microbit Robot Kit (£40)](https://coolcomponents.co.uk/collections/bbc-micro-bit-bundles/products/cool-components-bbc-micro-bit-with-move-mini-buggy-kit-bundle)
+- [CoolComponents - Flotilla extensions for Raspberry Pi](https://coolcomponents.co.uk/collections/flotilla)
 
 <hr>
 
@@ -84,3 +86,13 @@ The following resources are for more advanced programmers, once you have a grasp
 
 - [CryptoPals - Cryptography Challenges](https://cryptopals.com/)
 - [Project Euler - Maths challenges](https://projecteuler.net/)
+
+## Commercial programming courses
+
+These programming courses offer an alternative to an (often very expensive) University Computer Science course. They promise to deliver
+a course that will make you ready to work as a paid Computer Programmer within 8-12 weeks.
+
+- [Makers Academy, London - 8 week programme - £8000](https://www.makersacademy.com/)
+- [Constructor Labs, London - 12 week programme - £3000](https://www.constructorlabs.com/course)
+- [Made Tech, London - 12 week programme, ending in a job with £23,000 salary](https://www.madetech.com/careers/academy)
+- [8th Light, London (& USA) - paid apprenticeship](https://8thlight.com/apprenticeship/)
