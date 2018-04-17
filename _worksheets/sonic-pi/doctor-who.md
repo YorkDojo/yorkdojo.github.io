@@ -1,6 +1,6 @@
 ---
 layout: worksheet
-type: sonic pi
+type: sonic-pi
 title: Jungle Doctor Who
 featured_image: party-daleks.gif
 ---
