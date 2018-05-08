@@ -40,6 +40,22 @@ and web application development. Daniel is currently learning Go and Kubernetes.
 </div>
 ![Daniel's Bio Pic](/assets/images/dan-bio-pic.jpg)
 
+<div class="clearfix"></div>
+
+<div class="mentor" markdown='1'>
+
+### Carl Letman
+
+<div class="links" markdown='1'></div>
+
+Carl is researcher manager at [Skyblue Research](http://www.skyblue.org.uk/), specialising in vocational education and training.
+His earliest IT memory is upgrading the memory in his ZX Spectrum from 16 to a dizzying 48k
+and he has been tinkering ever since. In his spare time, Carl volunteers with his son's Beaver group
+and explores the back lanes of North Yorkshire on his bike.
+
 </div>
+![Carl's Bio Pic](/assets/images/carl-bio-pic.jpg)
 
 <div class="clearfix"></div>
+
+</div>
