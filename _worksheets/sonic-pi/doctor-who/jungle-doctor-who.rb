@@ -2,12 +2,12 @@ use_bpm 120
 
 live_loop :bass_line do
   use_synth :prophet
-  
+
   play (ring :e2, :e2, :e2, :e2, :r, :r,
         :e2, :e2, :e2, :e2, :r, :r,
         :e2, :e2, :e2, :e2, :r, :r,
         :g2, :r, :g2, :r, :g2, :r,
-        
+
         :e2, :e2, :e2, :e2, :r, :r,
         :e2, :e2, :e2, :e2, :r, :r,
         :e2, :e2, :e2, :e2, :r, :r,
@@ -21,7 +21,7 @@ live_loop :amen_break do
     sample :loop_amen, beat_stretch: 3
     sleep 3
   end
-  
+
   2.times do
     sample :loop_amen, beat_stretch: 6
     sleep 6
@@ -29,7 +29,7 @@ live_loop :amen_break do
 end
 
 s=1.0/8
-sq=1*s # semiquaver, to md dotted minum
+sq=1*s # semiquaver, to md dotted minim
 q=2*s
 c=4*s
 cd=6*s
@@ -58,4 +58,3 @@ live_loop :swooshy do
     sleep 12
   end
 end
-
