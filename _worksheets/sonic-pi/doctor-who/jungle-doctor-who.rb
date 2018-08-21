@@ -45,7 +45,7 @@ live_loop :tune do
       td=[6*7.5*c,cd,cd,c*9,cd,cd,c*12,
           cd,cd,cd+c,q,cd+c,q,md,cd,
           cd,cd+q,q,q,cd+c,q,c*15]
-      pl(tr,td)
+      play_pattern_timed(tr,td)
     end
   end
 end
