@@ -6,7 +6,9 @@ permalink: /next-session/
 
 ## When and Where
 
-{{ site.next_session_long }}, 10am to noon, at Clifton Green Primary School, Water Lane, York.
+{{ site.next_session_long }}, 6.30pm to 8.30pm, at Clifton Green Primary School, Water Lane, York.
+
+You're welcome to attend any or all of the session; For example those with small children can attend for the first hour.
 
 ## What do I need to bring?
 
@@ -16,9 +18,9 @@ permalink: /next-session/
 
 ## What we'll be doing
 
-- Making a website blog using Ruby on Rails, and pushing it online for all to see
-- Making a [remix of Doctor Who theme with code in SonicPi](/worksheets/sonic-pi/doctor-who)
+- Taking a computer apart and learning about what each part does
 - Experimenting with Microbits and [making them into fireflies](/worksheets/microbit/fireflies/) and [making a microbit step counter](/worksheets/microbit/step-counter/)
+- Making a [remix of Doctor Who theme with code in SonicPi](/worksheets/sonic-pi/doctor-who)
 
 ## Map
 
