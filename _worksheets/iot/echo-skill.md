@@ -46,16 +46,20 @@ The Amazon Echo is (duh) an Amazon product, so it makes to run the code on other
 
 First off, [we need to register an Amazon Web Services (AWS) account](https://console.aws.amazon.com/lambda/home) - if you already have an Echo, use the same account that it's registered with. Some of the services on AWS incur real-life charges that can ramp up pretty quickly, so be careful.
 
+Using Amazon Lambda to run code is free for the first 1 million runs though, so I think we'll be fine!
+
 Once you're registered, find the 'Lambda' section under 'Compute' or click the link above again to take you there.
 
-Using Amazon Lambda to run code is free for the first 1 million runs, so I think we'll be fine!
+### Make a new Lambda function
+
+Code on Amazon Lambda runs in 'functions' - like the functions you've seen in programming before.
 
 #### A bit more about Amazon Lambda (if you're interested!)
 
 For almost all websites, the code behind it runs on a server - basically someone else's computer that's always turned on & connected to the internet. These servers are usually in
 big & impressive warehouses called 'datacentres' that house many many many servers, each running different programs that make up the code for different websites.
 
-With Amazon Lambda however, we just 'rent' a tiny amount of a huge server for small amount of time - which turns out is much cheaper than owning or renting an entire server to yourself.
+With Amazon Lambda however, we just rent just a tiny amount of a huge server for small amount of time - which turns out is much cheaper than owning or renting an entire server to yourself.
 
 This kind of running code is becoming more common as the web gets faster and more reliable - it used to be all the big companies had their own datacentres, but they don't need to anymore.
 
@@ -67,5 +71,3 @@ Now [we need to go to the Alexa Developer console](https://developer.amazon.com/
 Once you're registered & logged in, press the 'Create Skill' button.
 
 ### Create a 'Hello World' skill
-
-## More to come, ran out of time :D - ask for help!!
